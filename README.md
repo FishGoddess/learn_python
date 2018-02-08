@@ -1,0 +1,3 @@
+# learn_python
+To store all my code file when I am learning python...
+为了记录我的 python 学习。。。
